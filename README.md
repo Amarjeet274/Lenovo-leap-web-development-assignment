@@ -113,45 +113,6 @@ skillpath/
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/skillpath.git
-```
-
-### Navigate to the Project
-
-```bash
-cd skillpath
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## 📸 Screenshots
-
-Add screenshots of the following pages:
-
-* Landing Page
-* About Page
-* Contact Page
-* 404 Page
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this assignment, I gained practical experience in:
